@@ -1,5 +1,6 @@
 function calculateRGB() {
     const hexValue = document.getElementById("hex-input").value;
+    console.log(hexValue);
 
     // WRITE YOUR CODE HERE
     let redValue = 0;
